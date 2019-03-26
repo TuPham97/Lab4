@@ -1,3 +1,2 @@
 con giap trung
-tu giap 123
-trung la 1 con giap 2
+trung la 1 con giap 2 
